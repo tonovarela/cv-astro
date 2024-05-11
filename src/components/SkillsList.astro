@@ -1,0 +1,106 @@
+---
+
+import HTML from "@/icons/html.astro"
+import CSS from "@/icons/css.astro"
+import JavaScript from "@/icons/javascript.astro"
+import TypeScript from "@/icons/type.astro"
+import React from "@/icons/react.astro"
+import Node from "@/icons/node.astro"
+import MySQL from "@/icons/sql.astro"
+import Git from "@/icons/git.astro"
+import GitHub from "@/icons/GitHub.astro"
+import Tailwind from "@/icons/tailwind.astro"
+import Next from "@/icons/next.astro"
+
+import Swift from "@/icons/swift.astro"
+import SwiftUI from "@/icons/swiftui.astro"
+import Kotlin from "@/icons/kotlin.astro"
+import Flutter from "@/icons/flutter.astro"
+import Angular from "@/icons/angular.astro"
+import Docker from "@/icons/docker.astro";
+import Laravel from "@/icons/laravel.astro";
+import Nestjs from "@/icons/nestjs.astro";
+import NetCore from "@/icons/netcore.astro";
+import Sql_Server from "@/icons/sqlserver.astro";
+import Bootstrap from "@/icons/bootstrap.astro";
+import Centos from "@/icons/centos.astro";
+import Linux from "@/icons/linux.astro";
+import Ionic from "@/icons/ionic.astro";
+import AstroJs from "@/icons/astrojs.astro";
+import Moodle  from "@/icons/moodle.astro"
+
+interface Props {
+    title:string;
+    skills:any;
+    
+}
+
+
+const {skills,title} =Astro.props;
+const SKILLS_ICONS: Record<string, any> = {
+  HTML,
+  AstroJs,
+  Moodle,
+  CSS,
+  Linux,
+  Sql_Server,
+  Bootstrap,
+  Ionic,
+  NetCore,
+  JavaScript,
+  Nestjs,
+  Laravel,
+  Docker,
+  TypeScript,
+  React,
+  Node,
+  MySQL,
+  Angular,
+  Git,
+  GitHub,
+  Next,
+  Tailwind,
+  Swift,
+  SwiftUI,
+  Kotlin,
+  Centos,
+  Flutter,
+};
+---
+<h3 style="margin-top:20px">{title}</h3>
+<hr>
+<ul>
+  {
+    skills.map(({ name }:any) => {
+      const iconName = name === "Next.js" ? "Next" : name
+      const Icon = SKILLS_ICONS[iconName]
+      return (
+        <li>
+          {Icon && <Icon />} <span>{name}</span>
+        </li>
+      )
+    })
+  }
+</ul>
+
+
+
+<style>
+    ul {
+      display: inline-flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+  
+    li {
+      align-items: center;
+      background: #eee;
+      border-radius: 6px;
+      color: black;
+      display: flex;
+      font-size: 0.8rem;
+      font-weight: 500;
+      gap: 4px;
+      padding: 0.2rem 0.6rem;
+    }
+  </style>

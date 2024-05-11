@@ -1,0 +1,428 @@
+{
+  "basics": {
+    "name": "Marco Antonio Estelles Martínez",
+    "label": "Full Stack Developer",
+    "image": "https://media.licdn.com/dms/image/C4E03AQG4D0gNnAAvHw/profile-displayphoto-shrink_200_200/0/1612797308041?e=1720656000&v=beta&t=vAUfUVZnRLL4VnIRj8PFdSj6xin8SymijZzfgvXfVbI",
+    "email": "tonovarela@live.com",
+    "phone": "+52 5516471655 ",
+    "url": "https://midu.dev",
+    "summary": "+10 años de experiencia como Desarrollador Web. Actualmente como Programador Full Stack y administrador de Servidores",
+    "location": {
+      "address": "",
+      "postalCode": "53420",
+      "city": "Naucalpan, Estado de México",
+      "countryCode": "MX",
+      "region": "México"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "tonovarela",
+        "url": "https://linkedin.com/in/tonovarela"
+      },      
+      {
+        "network": "GitHub",
+        "username": "tonovarela",
+        "url": "https://github.com/tonovarela"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Litoprocess S.A. de C.V.",
+      "position": "Programador Full Stack",
+      "url": "https://www.litoprocess.com.mx/",
+      "startDate": "2018-01-01",
+      "endDate": null,
+      "summary": ["Desarrollo de sistema de control de producción y generación de guias de envios usando la APIs de la paqueteria REDPACK, UPS, DHL, FEDEX y otros para su posterior seguimiento en los cierres de las ordenes en su plataforma E-COMMERCE.",
+       "Desarrollo de módulo de cotizaciones de envios usando las APIs de diferentes paqueterias para el CRM de la empresa.",
+       "Desarrollo de sistema de control de almacen.",
+       "Consumo de API de SAT para la descarga de los comprobantes fiscales e integración con el ERP."
+    ],
+      "highlights": [
+        "-----"
+      ]
+    },
+    {
+      "name": "FES Acatlán (Centro Tecnológico para la Educación a Distancia)",
+      "position": "Administrador de plataformas E-learning",
+      "url": "https://ceted.acatlan.unam.mx",
+      "startDate": "2013-06-01",
+      "endDate": "2017-09-01",
+      "summary": ["Apoyo en la instalación, gestion y mantenimiento de Moodle, supervision de la seguridad en servidores e implementación de soluciones web para las ofertas academicas en la modalidad abierta y a distancia.","Desarrollo de plugins para Moodle, administración y mantenimiento de sistemas del departamento."],
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "FES Acatlán (Centro de desarrollo Tecnológico)",
+      "position": "Desarollo e Investigación",
+      "url": "https://www.acatlan.unam.mx",
+      "startDate": "2009-06-01",
+      "endDate": "2013-09-01",
+      "summary": ["Participacion en el desarrollo de sistemas de encuestas para la Docencia de todas las carreras de la Facultad de Estudios Superiores Acatlán.",
+      "Participación en proyecto del Programa de Resultados Electorales Preliminares  para el Institulo Electoral del Estado de Hidalgo."
+    ],
+      "highlights": [
+        "Started the company"
+      ]
+    }   
+  ],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "Colegio de Postgrado en Desarrollo de Software",
+    "url": "https://www.cpds.edu.mx",
+    "area": "Maestria en Ingenieria en Desarrollo de Software",
+    "studyType": "Maestria",
+    "startDate": "2016-01-01",
+    "endDate": "2018-01-01",
+    "score": "8.0",
+    "courses": [
+      "Desarrrollo Web"
+    ]
+  },
+  {
+    "institution": "FES Acatlán UNAM",
+    "url": "https://www.acatlan.unam.mx",
+    "area": "Matemáticas aplicadas y computación",
+    "studyType": "Licenciatura",
+    "startDate": "2006-01-01",
+    "endDate": "2011-01-01",
+    "score": "8.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [
+    {
+      "name": "Microsoft Developing Microsoft Azure and Web Services.",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+    ,{
+    "name": "Microsoft MTA Cloud Fundamentals",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  },
+  {
+    "name": "Microsoft MTA Windows Server Administation Fundamentals.",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  },
+  {
+    "name": "Microsoft MTA Movility and Device Fundamentals.",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  },
+  {
+    "name": "Microsoft MTA Movility and Device Fundamentals.",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  },
+  {
+    "name": "Microsoft MTA Security Fundamentals.",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  },
+  {
+    "name": "Microsoft MTA Networking Fundamentals.",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  },
+  {
+    "name": "Microsoft MTA Softwate Developer Fundamentals.",
+    "date": "2021-11-07",
+    "issuer": "Microsoft",
+    "url": "https://certificate.com"
+  },
+  {
+    "name": "Microsoft MTA Database Fundamentals.",
+    "date": "2021-11-07",
+    "issuer": "Microsoft",
+    "url": "https://certificate.com"
+  },
+  {
+    "name": "Microsoft MTA HTML5 Application Development Fundamentals.",
+    "date": "2021-11-07",
+    "issuer": "Microsoft",
+    "url": "https://certificate.com"
+  },
+  {
+    "name": "Oracle OCJP Certicated Java Programmer Java SE 6.",
+    "date": "2021-11-07",
+    "issuer": "Oracle",
+    "url": "https://certificate.com"
+  }
+],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "Laravel",      
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Backend"
+      ]
+    },
+    {
+      "name": "Moodle",      
+      "level": "Master",
+      "keywords": [
+         "E-learning"
+      ]
+    },
+    {
+      "name": "Sql_Server",
+      "level": "Master",
+      "keywords": [
+         "Base de Datos","SQL"
+      ]
+    },    
+    {
+      "name": "AstroJs",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },    
+    {
+      "name": "Linux",
+      "level": "Master",
+      "keywords": [
+        "Administracion de servidores", "Sistemas operativos"
+      ]
+    },    
+    {
+      "name": "Ionic",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Movil"
+      ]
+    },    
+    {
+      "name": "Nestjs",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Backend"
+      ]
+    },
+    {
+      "name": "Centos",
+      "level": "Master",
+      "keywords": [
+         "Sistemas operativos"
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "level": "Master",
+      "keywords": [
+        "CSS", "Frontend"
+      ]
+    },
+    {
+      "name": "NetCore",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Backend"
+      ]
+    },
+    {
+      "name": "Angular",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Master",
+      "keywords": [
+        "Administracion de aplicaciones", "Sistemas operativos"
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Medio",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Medio",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },  
+    {
+      "name": "React",
+      "level": "Basico",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "mars.codes",
+      "isActive": true,
+      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "highlights": [
+        "Elige tu propia aventura",
+        "En desarrollo"
+      ],
+      "url": "https://mars.codes"
+    },
+    {
+      "name": "AdventJS",
+      "isActive": true,
+      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "highlights": [
+        "+1 millón de visitas",
+        "Multidioma",
+        "JavaScript & TypeScript"
+      ],
+      "url": "https://adventjs.dev"
+    },
+    {
+      "name": "Codember",
+      "isActive": true,
+      "description": "Juego interactivo de programación con retos y secretos",
+      "highlights": [
+        "+2000 usuarios activos",
+        "Retos para cualquier lenguaje"
+      ],
+      "url": "https://codember.dev"
+    },
+    {
+      "name": "codi.link",
+      "isActive": true,
+      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "highlights": [
+        "100k visitas al mes",
+        "Desarrollado por la comunidad"
+      ],
+      "url": "https://codi.link",
+      "github": "https://github.com/midudev/codi.link"
+    },
+    {
+      "name": "Pruebas Técnicas",
+      "isActive": true,
+      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "highlights": [
+        "100% gratuito",
+        "+500 soluciones de la comunidad"
+      ],
+      "url": "https://pruebastecnicas.com",
+      "github": "https://github.com/midudev/pruebas-tecnicas"
+    },
+    {
+      "name": "miduConf",
+      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+      "highlights": [
+        "+15k tickets repartidos",
+        "+50k espectadores en directo"
+      ],
+      "url": "https://miduconf.com"
+    }
+  ]
+}

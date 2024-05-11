@@ -1,0 +1,29 @@
+---
+import Section from "../Section.astro"
+import { certificates } from "@cv"
+
+---
+
+<Section title="Certificaciones">
+    <div>
+        <ol>     
+            {
+                certificates.map(c=>{
+                    return <li>{c.name}</li>
+                })
+            }            
+        </ol>
+    </div>
+    
+       <p style="margin-top: 5px;"><a href="https://www.credly.com/users/marco-antonio-estelles-martinez/badges" target="_blank">Verificación <br> https://www.credly.com/users/marco-antonio-estelles-martinez/badges</a></p>
+   <ul></ul>
+</Section>
+
+
+<style>
+    div {
+    color: #666;
+  font-size: 0.9rem;
+    }
+    
+</style>
